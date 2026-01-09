@@ -291,14 +291,9 @@ footer {
   padding: 12px 28px;
   border-radius: 30px;
   border: none;
-  background: linear-gradient(135deg, #4f8cff, #7a5cff);
+  background-color: #533cff;
   color: white;
   font-size: 16px;
   cursor: pointer;
 }
-.portfolio h1{
-   padding: 12px 28px;
-  border-radius: 30px;
-  border: none;
-  background: linear-gradient(135deg, #4f8cff, #7a5cff);
-}
+.portfolio
